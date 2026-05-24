@@ -1,0 +1,11 @@
+[云端]4.9[版本]
+[更新]https://raw.giteeusercontent.com/bapeX/cloud-update-2/raw/master/BAPE.so?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJCQVBFLnNvIiwicGlkIjo0NzgxMzIyNSwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by0xMHQtMDU1IiwicnAiOiJyZXBvcy9hYy8yZS9hYzJlNzdhODc4ZTAxNzc5ZmMyNGJjMWIxMTNkMWRmMjQ3NWIxZjA1MGM2ZTM4M2ZiOTYyOWMzZmRhN2NjYTFhLmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzc5MTY2ODAwfQ&signature=XqYOXUlXHfSgYDArOevfdJRL1stcpGk9RVq7yo5SLAQ[下载]
+[公告]
+移植旧版烟雾判断功能
+移植旧版投掷物抛物线
+移植旧版过安卓13-15强制防录屏
+修复音量控制内存泄露
+修复辅助执行段错误问题
+解决无法自动跳转迅猛兔加速器问题
+部分加速器列入白名单
+降低CPU进程占用率[公告]
