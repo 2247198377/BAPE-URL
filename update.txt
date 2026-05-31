@@ -1,4 +1,4 @@
-[云端]4.9[版本]
+[云端]5.0[版本]
 [更新]https://raw.githubusercontent.com/2247198377/BAPE-URL/refs/heads/main/BAPE.so[下载]
 [
 移植旧版烟雾判断功能
