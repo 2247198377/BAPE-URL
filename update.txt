@@ -1,5 +1,5 @@
 [云端]5.1[版本]
 [更新]https://raw.githubusercontent.com/2247198377/BAPE-URL/refs/heads/main/BAPE.so[下载]
-
+[公告]
 新增自瞄近点绝对优先级
 修复网络波动无法正常下载[公告]
