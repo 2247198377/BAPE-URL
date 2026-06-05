@@ -1,3 +1,3 @@
-[云端]5.4[版本]
+[云端]5.5[版本]
 [更新]https://raw.githubusercontent.com/2247198377/BAPE-URL/refs/heads/main/BAPE.so[下载]
 [公告]新增近点自瞄优先非倒地[公告]
